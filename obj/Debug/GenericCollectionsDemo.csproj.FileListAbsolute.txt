@@ -1,8 +1,0 @@
-C:\PShan\Demo\GenericCollectionsDemo\bin\Debug\GenericCollectionsDemo.exe.config
-C:\PShan\Demo\GenericCollectionsDemo\bin\Debug\GenericCollectionsDemo.exe
-C:\PShan\Demo\GenericCollectionsDemo\bin\Debug\GenericCollectionsDemo.pdb
-C:\PShan\Demo\GenericCollectionsDemo\obj\Debug\GenericCollectionsDemo.csproj.AssemblyReference.cache
-C:\PShan\Demo\GenericCollectionsDemo\obj\Debug\GenericCollectionsDemo.csproj.SuggestedBindingRedirects.cache
-C:\PShan\Demo\GenericCollectionsDemo\obj\Debug\GenericCollectionsDemo.csproj.CoreCompileInputs.cache
-C:\PShan\Demo\GenericCollectionsDemo\obj\Debug\GenericCollectionsDemo.exe
-C:\PShan\Demo\GenericCollectionsDemo\obj\Debug\GenericCollectionsDemo.pdb
